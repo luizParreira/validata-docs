@@ -10,7 +10,7 @@ You can also integrate validata by writing custom code within your application o
 4. Make this request:
 
 ```
-#POST validata.app/validate
+#POST validata-backend.herokuapp.com/validate
 
 body:
 - your events body payload
