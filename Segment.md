@@ -31,7 +31,7 @@ In order for us to validate your analytics events structure, we need you to inte
 
 ```
 Webhook URL:
-- https://validata.app/validate
+- https://validata-backend.herokuapp.com/validate
 Headers:
  - "auth-token: your-source-token"
 ```
